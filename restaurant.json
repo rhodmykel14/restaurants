@@ -22,18 +22,21 @@
     },
     {
         "id": 102,
-        "name": "Jollibee",
+        "name": "Tita Fannies",
         "address": {
-        "street": "456 Beehive Street",
-        "city": "Quezon City",
-        "zipcode": "1100"
+            "street": "Zamora Street",
+            "city": "Iligan City",
+            "zipcode": "9200"
+            "geo":{
+                "lat": "8.2296755"
+                "lng": "124.2399061"
         },
         "phone": "987-654-3210",
-        "email": "feedback@jollibee.com"
-        "website": "www.jollibee.com"
+        "email": "feedback@titafannies.com"
+        "website": "www.titafannies.com"
         "cuisine": "Fast Food",
         "rating": 4.8,
-        "menu": ["Chickenjoy", "Jolly Spaghetti", "Burger Steak"],
+        "menu": ["Chicken Inasal", "Pork BBQ", "Liempo"],
         "services": ["Delivery", "Drive-thru"]
     },
     {
