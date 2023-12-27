@@ -38,20 +38,6 @@
         "rating": 4.8,
         "menu": ["Chicken Inasal", "Pork BBQ", "Liempo"],
         "services": ["Delivery", "Drive-thru"]
-    },
-    {
-        "id": 103,
-        "name": "Max's Restaurant",
-        "address": {
-        "street": "789 Fried Chicken Street",
-        "city": "Pasig",
-        "zipcode": "1600"
-        "phone": "555-123-4567",
-        "email": "hello@maxschicken.com"
-        "cuisine": "Filipino",
-        "rating": 4.6,
-        "menu": ["Max's Fried Chicken", "Kare-Kare", "Sizzling Tofu"],
-        "services": ["Dine-in", "Takeout"]
     }
    
 ]
