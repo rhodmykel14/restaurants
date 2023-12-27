@@ -1,1 +1,56 @@
 
+[
+    {
+        "id": 101,
+        "name": "Mang Inasal",
+        "address": {
+        "street": "123 Chicken Avenue",
+        "city": "Manila",
+        "zipcode": "1000"
+        },
+        "contact": {
+        "phone": "123-456-7890",
+        "email": "info@manginasal.com"
+        },
+        "cuisine": "Filipino",
+        "rating": 4.5,
+        "menu": ["Chicken Inasal", "Pork BBQ", "Halo-halo"],
+        "services": ["Delivery", "Takeout"]
+    },
+    {
+        "id": 102,
+        "name": "Jollibee",
+        "address": {
+        "street": "456 Beehive Street",
+        "city": "Quezon City",
+        "zipcode": "1100"
+        },
+        "contact": {
+        "phone": "987-654-3210",
+        "email": "feedback@jollibee.com"
+        },
+        "cuisine": "Fast Food",
+        "rating": 4.8,
+        "menu": ["Chickenjoy", "Jolly Spaghetti", "Burger Steak"],
+        "services": ["Delivery", "Drive-thru"]
+    },
+    {
+        "id": 103,
+        "name": "Max's Restaurant",
+        "address": {
+        "street": "789 Fried Chicken Street",
+        "city": "Pasig",
+        "zipcode": "1600"
+        },
+        "contact": {
+        "phone": "555-123-4567",
+        "email": "hello@maxschicken.com"
+        },
+        "cuisine": "Filipino",
+        "rating": 4.6,
+        "menu": ["Max's Fried Chicken", "Kare-Kare", "Sizzling Tofu"],
+        "services": ["Dine-in", "Takeout"]
+    }
+   
+]
+  
