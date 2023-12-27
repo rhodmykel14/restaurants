@@ -8,10 +8,9 @@
         "city": "Manila",
         "zipcode": "1000"
         },
-        "contact": {
         "phone": "123-456-7890",
         "email": "info@manginasal.com"
-        },
+        "website": "www.manginasal.com.ph"
         "cuisine": "Filipino",
         "rating": 4.5,
         "menu": ["Chicken Inasal", "Pork BBQ", "Halo-halo"],
