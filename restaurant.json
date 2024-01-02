@@ -12,11 +12,71 @@
       }
     },
     "phone": "123-456-7890",
-    "email": "info@manginasal.com",
-    "website": "www.manginasal.com.ph",
+    "email": "info@sunbustfriedchicken.com",
+    "website": "www.sunbustfriedchicken.com.ph",
     "cuisine": "Filipino",
     "rating": 4.5,
     "menu": ["Chicken Inasal", "Pork BBQ", "Halo-halo"],
     "services": ["Delivery", "Takeout"]
-  }
+  },
+  {
+    "id": 102,
+    "name": "Am's Chicken House",
+    "address": {
+      "street": "Quezon Avenue Extension, Pala-o",
+      "city": "Iligan City",
+      "zipcode": "9200",
+      "geo": {
+        "lat": "8.226359",
+        "lng": "124.255261"
+      }
+    },
+    "phone": "222-2222",
+    "email": "info@amschickenhouse.com",
+    "website": "www.amschickenhouse.com",
+    "cuisine": "Filipino",
+    "rating": 4.5,
+    "menu": ["Chicken Inasal", "Pork BBQ", "Halo-halo"],
+    "services": ["Delivery", "Takeout"]
+  },
+  {
+    "id": 103,
+    "name": "Tita Fannies",
+    "address": {
+      "street": "Zamora Street",
+      "city": "Iligan City",
+      "zipcode": "9200",
+      "geo": {
+        "lat": "8.226359",
+        "lng": "124.255261"
+      }
+    },
+    "phone": "222-2222",
+    "email": "hello@titafannies.com",
+    "website": "www.titafannies.com",
+    "cuisine": "Filipino",
+    "rating": 4.5,
+    "menu": ["Chicken Inasal", "Liempo", "Lechon Manok"],
+    "services": ["Delivery", "Takeout"]
+  },
+  {
+    "id": 104,
+    "name": "Fullhouse Halohalo and Snacks",
+    "address": {
+      "street": "Obach Streett",
+      "city": "Iligan City",
+      "zipcode": "9200",
+      "geo": {
+        "lat": "8.226359",
+        "lng": "124.255261"
+      }
+    },
+    "phone": "222-8123",
+    "email": "hello@fullhouse.com",
+    "website": "www.fullhouse.com",
+    "cuisine": "Filipino",
+    "rating": 4.5,
+    "menu": ["Halo-halo"],
+    "services": ["Delivery", "Takeout"]
+  },
 ]
