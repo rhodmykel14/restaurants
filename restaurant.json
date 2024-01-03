@@ -77,6 +77,6 @@
     "cuisine": "Filipino",
     "rating": 4.5,
     "menu": ["Halo-halo"],
-    "services": ["Delivery", "Takeout"]
+    "services": ["Delivery", "Dine In"]
   }
 ]
